@@ -1,0 +1,2 @@
+# GurkenHome-Automatisierung
+kleines Helferlein ^^
